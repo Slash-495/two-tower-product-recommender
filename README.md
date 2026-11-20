@@ -1,4 +1,4 @@
-# Multimodal Two-Tower Product Recommendation System
+# Two-Tower Product Recommendation System
 
 [![Python 3.12](https://img.shields.io/badge/Python-3.12-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c.svg)](https://pytorch.org/)
